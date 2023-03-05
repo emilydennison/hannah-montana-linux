@@ -1,8 +1,8 @@
 # hannah-montana-linux
 
 Community project to upgrade Hannah Montana Linux to the latest version.
+Will upload OVA files later. The ISO can be found here: https://archiveos.org/hannah-montana/
 
-## Files on here are the original ISO as well as a potentially broken OVA which I managed to upgrade a few versions before hitting major issues. 
 
 ## Current progress (please update!)
 
