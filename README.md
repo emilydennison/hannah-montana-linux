@@ -2,7 +2,9 @@
 
 Community project to upgrade Hannah Montana Linux to the latest version.
 
-Current progress (please update!)
+## Files on here are the original ISO as well as a potentially broken OVA which I managed to upgrade a few versions before hitting major issues. 
+
+## Current progress (please update!)
 
 - follow ubuntu EOLUpgrades instructions https://help.ubuntu.com/community/EOLUpgrades
 - remove medibuntu from apt sources and use sed to change mirrors list to contain "old-releases.ubuntu.com" for apt to run properly. 
